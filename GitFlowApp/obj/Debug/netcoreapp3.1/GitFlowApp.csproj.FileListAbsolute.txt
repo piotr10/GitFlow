@@ -1,0 +1,13 @@
+E:\PIOTREK\GitFlow\GitFlowApp\bin\Debug\netcoreapp3.1\GitFlowApp.exe
+E:\PIOTREK\GitFlow\GitFlowApp\bin\Debug\netcoreapp3.1\GitFlowApp.deps.json
+E:\PIOTREK\GitFlow\GitFlowApp\bin\Debug\netcoreapp3.1\GitFlowApp.runtimeconfig.json
+E:\PIOTREK\GitFlow\GitFlowApp\bin\Debug\netcoreapp3.1\GitFlowApp.runtimeconfig.dev.json
+E:\PIOTREK\GitFlow\GitFlowApp\bin\Debug\netcoreapp3.1\GitFlowApp.dll
+E:\PIOTREK\GitFlow\GitFlowApp\bin\Debug\netcoreapp3.1\GitFlowApp.pdb
+E:\PIOTREK\GitFlow\GitFlowApp\obj\Debug\netcoreapp3.1\GitFlowApp.csprojAssemblyReference.cache
+E:\PIOTREK\GitFlow\GitFlowApp\obj\Debug\netcoreapp3.1\GitFlowApp.AssemblyInfoInputs.cache
+E:\PIOTREK\GitFlow\GitFlowApp\obj\Debug\netcoreapp3.1\GitFlowApp.AssemblyInfo.cs
+E:\PIOTREK\GitFlow\GitFlowApp\obj\Debug\netcoreapp3.1\GitFlowApp.csproj.CoreCompileInputs.cache
+E:\PIOTREK\GitFlow\GitFlowApp\obj\Debug\netcoreapp3.1\GitFlowApp.dll
+E:\PIOTREK\GitFlow\GitFlowApp\obj\Debug\netcoreapp3.1\GitFlowApp.pdb
+E:\PIOTREK\GitFlow\GitFlowApp\obj\Debug\netcoreapp3.1\GitFlowApp.genruntimeconfig.cache
