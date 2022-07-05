@@ -6,5 +6,9 @@ namespace GitFlowApp
 {
     public class Class2
     {
+        public void NewMethod()
+        {
+            Console.WriteLine("HEY");
+        }
     }
 }
